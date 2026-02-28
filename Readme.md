@@ -123,6 +123,7 @@ Owner/Admin memiliki hak penuh untuk:
 ---
 
 ## 👨‍💻 Author
-**Nama:** _(Isi nama kamu)_  
-**Project:** Tugas Sistem Informasi Restoran  
+**Nama:** Nabila Cahya Soepardja 
+**Kelas:** XII PPLG 1
+**Project:** Tugas Restoran
 **Tahun:** 2026
